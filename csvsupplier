@@ -1,0 +1,21 @@
+Supplier ID,Part Number,Part Name,Part Price,Status
+SP301,A001,water,6800,In
+SP302,A002,alternator,3800,In
+SP303,A003,air filter,4500,In
+SP304,A004,wheel bearing,3582,stock
+SP305,A005,muffler,1600,In
+SP306,A006,oil pan,1005,Out of stock
+SP307,A007,brake pads,6500,Out of stock
+SP308,A008,brake rotors,8540,Out of stock
+SP309,A009,headlight,6500,In
+SP310,A010,brake,1500,In
+SP311,A011,Strut,4500,In
+SP312,A012,Device CV Boot,1580,In
+SP313,A013,Kit,265,stock
+SP314,A014,Oil Pump,4660,In
+SP315,A015,Oil Filter,4350,In
+SP316,A016,Fuel Filter,1280,In
+SP317,A017,Tie Rod End,1800,stock
+SP318,A018,Ball Joint,2500,In
+SP319,A019,Steering Rack,2700,Out of stock
+SP320,A020,Piston,4500,stock
